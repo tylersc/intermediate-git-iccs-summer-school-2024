@@ -51,4 +51,8 @@ repository and run
 pytest -v test_maths.py
 ```
 
+## Rebase exercise
+
+The branch `rebase-exercise` exists as an exercise for attendees.
+
 [1]: https://github.com/Cambridge-ICCS/git-intro-iccs-summer-school-2024
